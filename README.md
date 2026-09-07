@@ -5,7 +5,7 @@
 ### por **Fabiano Silva dos Anjos**
 
 <a href="https://github.com/fabiano0147">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=FABIANO%2F%2FLABS;Software%2C+automa%C3%A7%C3%A3o+e+solu%C3%A7%C3%B5es+digitais+com+IA;Python+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Next.js;Gemini+%E2%80%A2+Claude+%E2%80%A2+Agentes+aut%C3%B4nomos;Da+ideia+ao+produto%2C+com+IA+no+processo" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=FABIANO%2F%2FLABS;Software%2C+automa%C3%A7%C3%A3o+e+solu%C3%A7%C3%B5es+digitais+com+IA;Python+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Next.js;Gemini+%E2%80%A2+Claude+%E2%80%A2+Codex+%E2%80%A2+Agentes+aut%C3%B4nomos;Da+ideia+ao+produto%2C+com+IA+no+processo" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -27,6 +27,7 @@
   ▸ O que faço ......... software, automação e soluções digitais com IA
   ▸ Stack principal .... Python • PyQt6 • FastAPI • Next.js / TypeScript
   ▸ IA ................. Google Gemini • Claude (Anthropic) • Groq • OpenCV / MediaPipe
+  ▸ Ferramentas de IA .. Claude Code • Codex
   ▸ Interesses ......... agentes autônomos, automação de computador, interfaces cinematográficas
   ▸ Status ............. online ● sempre construindo algo novo
 ```
@@ -48,10 +49,11 @@
 
 <br/><br/>
 
-**IA & Visão**
+**IA, Agentes & Visão**
 
 <img src="https://img.shields.io/badge/Google%20Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=58A6FF" alt="Gemini"/>
 <img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=58A6FF" alt="Claude"/>
+<img src="https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="Codex"/>
 <img src="https://img.shields.io/badge/Groq-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Groq"/>
 <img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=58A6FF" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/MediaPipe-0D1117?style=for-the-badge&logo=google&logoColor=58A6FF" alt="MediaPipe"/>
