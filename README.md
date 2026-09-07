@@ -69,8 +69,9 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=fabiano0147&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=1F6FEB&locale=pt-br" alt="estatísticas"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiano0147&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=pt-br" alt="linguagens mais usadas"/>
+<!-- Cards gerados pelo workflow .github/workflows/stats.yml (sem depender de servidor externo) -->
+<img height="180" src="./profile/stats.svg" alt="estatísticas"/>
+<img height="180" src="./profile/top-langs.svg" alt="linguagens mais usadas"/>
 
 <br/><br/>
 
@@ -78,11 +79,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=fabiano0147&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="troféus"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fabiano0147&bg_color=0D1117&color=C9D1D9&title_color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" width="100%" alt="gráfico de atividade"/>
+<img src="https://ghchart.rshah.org/58A6FF/fabiano0147" width="100%" alt="calendário de contribuições do último ano"/>
 
 </div>
 
