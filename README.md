@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=230&section=header&text=Fabiano&fontSize=76&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=anjos.creationz%E2%84%A2%20%20%E2%80%A2%20%20IA%20%20%E2%80%A2%20%20Automa%C3%A7%C3%A3o%20%20%E2%80%A2%20%20Desktop&descSize=20&descAlignY=60&descColor=C9D1D9" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:58A6FF&height=240&section=header&text=FABIANO%2F%2FLABS&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Software%2C%20automa%C3%A7%C3%A3o%20e%20solu%C3%A7%C3%B5es%20digitais%20com%20IA.&descSize=19&descAlignY=58&descColor=C9D1D9" width="100%" alt="FABIANO//LABS"/>
+
+### por **Fabiano Silva dos Anjos**
 
 <a href="https://github.com/fabiano0147">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Criador+do+JARVIS+OS;Assistentes+de+voz+com+IA+para+desktop;Python+%E2%80%A2+PyQt6+%E2%80%A2+FastAPI+%E2%80%A2+Next.js;Gemini+Live+%E2%80%A2+Claude+Agents+%E2%80%A2+Vis%C3%A3o+computacional;Voc%C3%AA+fala.+O+sistema+executa." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=FABIANO%2F%2FLABS;Software%2C+automa%C3%A7%C3%A3o+e+solu%C3%A7%C3%B5es+digitais+com+IA;Python+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Next.js;Gemini+%E2%80%A2+Claude+%E2%80%A2+Agentes+aut%C3%B4nomos;Da+ideia+ao+produto%2C+com+IA+no+processo" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=fabiano0147&color=1F6FEB&style=for-the-badge&label=VISITAS" alt="visitas"/>
-<img src="https://img.shields.io/badge/Foco-IA%20%2B%20Automa%C3%A7%C3%A3o-58A6FF?style=for-the-badge&labelColor=0D1117" alt="foco"/>
+<img src="https://img.shields.io/badge/Foco-Software%20%2B%20Automa%C3%A7%C3%A3o%20%2B%20IA-58A6FF?style=for-the-badge&labelColor=0D1117" alt="foco"/>
 <img src="https://img.shields.io/badge/Base-Brasil-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="brasil"/>
 
 </div>
@@ -19,20 +21,20 @@
 ## 🧠 Sobre mim
 
 ```text
-> fabiano.status()
+> fabiano_labs.status()
 
-  ▸ Criador do JARVIS OS — assistente pessoal de voz com IA para desktop
-  ▸ Stack principal ......... Python • PyQt6 • FastAPI • Next.js / TypeScript
-  ▸ IA ...................... Google Gemini Live • Claude (Anthropic) • Groq • OpenCV / MediaPipe
-  ▸ Interesses .............. automação de computador, agentes autônomos, interfaces cinematográficas
-  ▸ Marca ................... anjos.creationz™
-  ▸ Status .................. online ● construindo o próximo release
+  ▸ Quem ............... Fabiano Silva dos Anjos — desenvolvedor, criador do FABIANO//LABS
+  ▸ O que faço ......... software, automação e soluções digitais com IA
+  ▸ Stack principal .... Python • PyQt6 • FastAPI • Next.js / TypeScript
+  ▸ IA ................. Google Gemini • Claude (Anthropic) • Groq • OpenCV / MediaPipe
+  ▸ Interesses ......... agentes autônomos, automação de computador, interfaces cinematográficas
+  ▸ Status ............. online ● sempre construindo algo novo
 ```
 
-- 🎙️ Construo assistentes que **ouvem, entendem e executam**: abrem programas, mexem em arquivos, pesquisam, montam apresentações e enviam mensagens.
-- 🤖 Integro **LLMs multimodais** (voz nativa, visão, tools) com **agentes em segundo plano** que assumem tarefas longas.
-- 🖥️ Prefiro software **local-first** e **multiplataforma** (Windows completo, macOS e Linux), com interface pensada como produto.
-- 🧪 Levo qualidade a sério: o JARVIS roda com **1.800+ testes automatizados**.
+- 🧪 **FABIANO//LABS** é o meu laboratório: onde ideias viram software, automações e produtos digitais com IA.
+- 🤖 Programo **com IA e para IA**: integro LLMs multimodais (voz, visão, tools) e agentes que executam tarefas de ponta a ponta.
+- ⚙️ Construo **automações** que tiram o trabalho repetitivo do caminho, do desktop à web.
+- 🖥️ Prefiro software **local-first**, **multiplataforma** e com interface pensada como produto.
 
 <br/>
 
@@ -97,15 +99,15 @@
 
 <br/>
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| **JARVIS OS** 🔒 | Assistente pessoal de voz com IA para desktop. Modo Live com Gemini (áudio nativo), HUD em PyQt6, 45 ferramentas no Windows, agente Claude em segundo plano, estúdio de apresentações `.pptx` e 1.800+ testes automatizados. | Python · PyQt6 · FastAPI · Next.js · Gemini · Claude |
-| **Orçamento** 🔒 | Aplicação de orçamentos com backend e frontend separados. | JavaScript · HTML · CSS |
-| [**Café Branyl**](https://github.com/fabiano0147/cafe-branyl) | PWA instalável de cardápio para café da manhã, com service worker e manifest. | HTML · JavaScript · PWA |
+| Projeto | Tipo | O que é | Stack |
+|---|---|---|---|
+| **JARVIS OS** 🔒 | Projeto pessoal | Assistente de voz com IA para desktop: modo Live com Gemini (áudio nativo), HUD em PyQt6, agente Claude em segundo plano, estúdio de apresentações e 1.800+ testes automatizados. | Python · PyQt6 · FastAPI · Next.js · Gemini · Claude |
+| **Orçamento** 🔒 | Aplicação | Sistema de orçamentos com backend e frontend separados. | JavaScript · HTML · CSS |
+| [**Café Branyl**](https://github.com/fabiano0147/cafe-branyl) | PWA | Cardápio instalável para café da manhã, com service worker e manifest. | HTML · JavaScript · PWA |
 
-> 🔒 repositório privado, em desenvolvimento. Em breve mais projetos públicos por aqui.
+> 🔒 repositório privado. Esta lista cresce com o tempo: novos projetos do **FABIANO//LABS** entram aqui conforme forem publicados.
 
 <br/>
 
@@ -113,10 +115,10 @@
 
 <div align="center">
 
-<a href="mailto:fabiano@branyl.com.br"><img src="https://img.shields.io/badge/E--mail-fabiano%40branyl.com.br-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="e-mail"/></a>
+<a href="mailto:fabianotech.anjos@gmail.com"><img src="https://img.shields.io/badge/E--mail-fabianotech.anjos%40gmail.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="e-mail"/></a>
 <a href="https://github.com/fabiano0147"><img src="https://img.shields.io/badge/GitHub-fabiano0147-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
 <!-- Para adicionar o LinkedIn, troque SEU-USUARIO e remova os marcadores de comentário: -->
-<!-- <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Fabiano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a> -->
+<!-- <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Fabiano%20Silva%20dos%20Anjos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a> -->
 
 </div>
 
