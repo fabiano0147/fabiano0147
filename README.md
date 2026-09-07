@@ -53,7 +53,7 @@
 
 <img src="https://img.shields.io/badge/Google%20Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=58A6FF" alt="Gemini"/>
 <img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=58A6FF" alt="Claude"/>
-<img src="https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="Codex"/>
+<img src="https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzU4QTZGRiIgZD0iTTMgNGw3IDgtNyA4aDNsNy04LTctOEgzem05IDE0aDl2MmgtOXoiLz48L3N2Zz4%3D" alt="Codex"/>
 <img src="https://img.shields.io/badge/Groq-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Groq"/>
 <img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=58A6FF" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/MediaPipe-0D1117?style=for-the-badge&logo=google&logoColor=58A6FF" alt="MediaPipe"/>
