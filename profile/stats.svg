@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Estat&#237;sticas do GitHub de fabiano0147, Rank: C</title>
-        <desc id="descId">Total de estrelas: 0, Total de Commits  : 8, Total de PRs: 0, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
+        <title id="titleId">Estat&#237;sticas do GitHub de Fabiano Silva dos Anjos, Rank: C</title>
+        <desc id="descId">Total de estrelas: 0, Total de Commits  : 11, Total de PRs: 0, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 249.1917837065957;
+        stroke-dashoffset: 249.10525193040056;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Estat&#237;sticas do GitHub de fabiano0147</text>
+      >Estat&#237;sticas do GitHub de Fabiano Silva dos Anjos</text>
     </g>
       </g>
     
@@ -177,7 +177,7 @@
         x="274.01"
         y="12.5"
         data-testid="commits"
-      >8</text>
+      >11</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
